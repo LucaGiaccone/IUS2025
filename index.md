@@ -1,16 +1,16 @@
-Here you can find my proceedings and supplementary materials presented at **IUS 2025**.
+My proceedings and supplementary materials related to the works I presented at **IUS 2025**.
 
 ---
 
 ## Physics-Informed Channel Modeling with Ultrasound Localization Microscopy  
 
-📄 [Download the Proceeding](IUS-Proceeding-Physics_Informed_Channel_Modeling.pdf)  
+📄 [Download the Proceeding](PhysicsInformedChannelModeling.pdf)  
 
 ---
 
 ## Detection of Pulsatile Oscillations via Ultrasound Localization Microscopy  
 
-📄 [Download the Proceeding](IUS-Proceeding-Detection_of_Pulsatile_Oscillations.pdf)  
+📄 [Download the Proceeding](DetectingPulsatileOscillations.pdf)  
 📊 [Watch the Pulsatile Fit](Womersley_2w_slip.avi)  
 
 ---
