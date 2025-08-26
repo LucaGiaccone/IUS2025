@@ -1,5 +1,3 @@
-# IUS 2025
- 
 Here you can find my proceedings and supplementary materials presented at **IUS 2025**.
 
 ---
@@ -19,3 +17,9 @@ Here you can find my proceedings and supplementary materials presented at **IUS 
 
 📬 *Contact: [luca.giaccone@unitn.it](mailto:luca.giaccone@unitn.it)*
 
+
+---
+
+<p align="center">
+  <img src="logo.png" alt="Conference & Lab Logo" style="width:100%; max-width:800px;"/>
+</p>
