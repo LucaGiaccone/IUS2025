@@ -1,5 +1,3 @@
-My proceedings and supplementary materials related to the works I presented at **IUS 2025**.
-
 ---
 
 ## Physics-Informed Channel Modeling with Ultrasound Localization Microscopy  
