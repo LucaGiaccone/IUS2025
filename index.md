@@ -1,4 +1,7 @@
 ---
+layout: default
+title: Home
+---
 
 ## Physics-Informed Channel Modeling with Ultrasound Localization Microscopy  
 
